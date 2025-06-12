@@ -7,7 +7,7 @@ This is a simple Django-based chatbot application that interacts with OpenAI's G
 - Real-time interaction with AI-based chatbot
 - Integrated with OpenAI's GPT-3 for responses
 - Stores chat history
-  
+
 
 ## Tech Stack
 - **Backend**: Django
